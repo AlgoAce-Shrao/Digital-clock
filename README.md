@@ -14,7 +14,7 @@ A stunning, modern digital clock web application featuring real-time updates, be
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://your-vercel-app-url.vercel.app)**
+**[View Live Demo](https://digital-clock-two-phi.vercel.app/)**
 
 Experience the Digital Clock in action! Click the link above to access the live deployment hosted on Vercel and see the real-time clock with all its beautiful animations.
 
